@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/layout-land/on_screen_hint.xml",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/layout-land/on_screen_hint.xml"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/layout-land/review_module_control.xml",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/layout-land/review_module_control.xml"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/layout-land/aspect_ratio_dialog_content.xml",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/layout-land/aspect_ratio_dialog_content.xml"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/layout-land/camera_controls.xml",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/layout-land/camera_controls.xml"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/layout-land/mode_options.xml",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/layout-land/mode_options.xml"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/layout-land/indicators.xml",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/layout-land/indicators.xml"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/layout-land/aspect_ratio_selector.xml",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/layout-land/aspect_ratio_selector.xml"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/layout-land/location_dialog_content.xml",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/layout-land/location_dialog_content.xml"
+    }
+]

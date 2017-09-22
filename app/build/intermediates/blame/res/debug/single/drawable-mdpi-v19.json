@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/drawable-mdpi-v19/menu_bg_pressed.png",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/drawable-mdpi-v19/menu_bg_pressed.png"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/drawable-mdpi-v19/btn_shutter_video_pressed.png",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/drawable-mdpi-v19/btn_shutter_video_pressed.png"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/drawable-mdpi-v19/btn_shutter_video_recording.png",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/drawable-mdpi-v19/btn_shutter_video_recording.png"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/drawable-mdpi-v19/btn_shutter_default.png",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/drawable-mdpi-v19/btn_shutter_default.png"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/drawable-mdpi-v19/btn_shutter_recording.png",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/drawable-mdpi-v19/btn_shutter_recording.png"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/drawable-mdpi-v19/list_pressed_holo_light.9.png",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/drawable-mdpi-v19/list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/drawable-mdpi-v19/btn_shutter_pressed.png",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/drawable-mdpi-v19/btn_shutter_pressed.png"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/drawable-mdpi-v19/btn_shutter_video_default.png",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/drawable-mdpi-v19/btn_shutter_video_default.png"
+    }
+]

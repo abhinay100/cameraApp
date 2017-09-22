@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_gallery.png",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/mipmap-hdpi/ic_launcher_gallery.png"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/mipmap-hdpi/logo_camera_color_44in48dp.png",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/mipmap-hdpi/logo_camera_color_44in48dp.png"
+    }
+]

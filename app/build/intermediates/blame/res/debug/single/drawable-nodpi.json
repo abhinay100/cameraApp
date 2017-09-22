@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/drawable-nodpi/brush_marker.png",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/drawable-nodpi/brush_marker.png"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/drawable-nodpi/brush_spatter.png",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/drawable-nodpi/brush_spatter.png"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/drawable-nodpi/geometry_shadow.9.png",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/drawable-nodpi/geometry_shadow.9.png"
+    }
+]

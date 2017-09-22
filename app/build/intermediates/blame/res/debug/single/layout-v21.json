@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/abhinay/.android/build-cache/d05cc8d36bd83d678070f26d684698bb2c9874c1/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/layout-v21/keyguard_widget.xml",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/layout-v21/keyguard_widget.xml"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/abhinay/.android/build-cache/d05cc8d36bd83d678070f26d684698bb2c9874c1/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/abhinay/.android/build-cache/d05cc8d36bd83d678070f26d684698bb2c9874c1/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/abhinay/.android/build-cache/d05cc8d36bd83d678070f26d684698bb2c9874c1/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

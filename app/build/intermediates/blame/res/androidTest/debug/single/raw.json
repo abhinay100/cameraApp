@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/androidTest/debug/raw/jpeg_control.jpg",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/androidTest/res/raw/jpeg_control.jpg"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/androidTest/debug/raw/android_lawn.mp4",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/androidTest/res/raw/android_lawn.mp4"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/androidTest/debug/raw/galaxy_nexus.jpg",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/androidTest/res/raw/galaxy_nexus.jpg"
+    }
+]

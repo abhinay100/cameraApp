@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/abhinay/.android/build-cache/d05cc8d36bd83d678070f26d684698bb2c9874c1/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/abhinay/.android/build-cache/d05cc8d36bd83d678070f26d684698bb2c9874c1/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

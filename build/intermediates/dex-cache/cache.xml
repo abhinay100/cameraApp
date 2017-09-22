@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/jni/xmpcore-5.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/transforms/dex/debug/folders/1000/2/xmpcore-5.1.2_5ae16c09b9e63cab36ebde29377de951f1c9f2b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/jni/glide-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/transforms/dex/debug/folders/1000/2/glide-3.6.0_3d51efda58fc6f9783d3f31f22bf21318579cb06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/jni/annotations-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d8dff1d83a79f0c0609c360f02bcd2f2fc1f1369">
+        <dex dex="/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/transforms/dex/debug/folders/1000/2/annotations-2.0.0_8650f81f795907f8c38b1d3e7e44161f094794e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_836e8e3d68c346d7b0ec0ca394ec5fd31f9037eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="52fbeff9082683c2d70cef04240d3db9a5683e60">
+        <dex dex="/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fcf9c9fad03499ffc9ca4c72988582b471b61db9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/jni/guava-15.0-rc1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e22ec7d9349f9dc12bec6f1b9792c8e9604e92aa">
+        <dex dex="/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/transforms/dex/debug/folders/1000/2/guava-15.0-rc1_a66734a7852e28fe2dc10f758fc170660e6bc089/classes.dex" />
+    </item>
+
+</items>

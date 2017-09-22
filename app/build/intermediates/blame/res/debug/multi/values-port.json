@@ -1,0 +1,150 @@
+[
+    {
+        "outputFile": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/home/abhinay/.android/build-cache/d05cc8d36bd83d678070f26d684698bb2c9874c1/output/res/values-port/values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 54,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/values-port/dimensions.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endColumn": 54,
+                        "endOffset": 736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 661
+                },
+                "from": {
+                    "file": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/values-port/styles.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1603,
+                        "endLine": 40,
+                        "endColumn": 12,
+                        "endOffset": 2098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 666,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1136
+                },
+                "from": {
+                    "file": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/values-port/styles.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 745,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1141,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1519
+                },
+                "from": {
+                    "file": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/values-port/styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1220,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 1598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1524,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1975
+                },
+                "from": {
+                    "file": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/values-port/styles.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2542,
+                        "endLine": 56,
+                        "endColumn": 12,
+                        "endOffset": 2993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1980,
+                    "endLine": 44,
+                    "endColumn": 12,
+                    "endOffset": 2414
+                },
+                "from": {
+                    "file": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/values-port/styles.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2103,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 2537
+                    }
+                }
+            }
+        ]
+    }
+]

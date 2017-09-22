@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/drawable-port-xhdpi/btn_video_shutter_recording_holo_xlarge.png",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/drawable-port-xhdpi/btn_video_shutter_recording_holo_xlarge.png"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/drawable-port-xhdpi/switcher_bg.9.png",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/drawable-port-xhdpi/switcher_bg.9.png"
+    },
+    {
+        "merged": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/res/merged/debug/drawable-port-xhdpi/btn_video_shutter_recording_pressed_holo_xlarge.png",
+        "source": "/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/src/main/res/drawable-port-xhdpi/btn_video_shutter_recording_pressed_holo_xlarge.png"
+    }
+]

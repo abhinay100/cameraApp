@@ -1,0 +1,7 @@
+#Fri Sep 22 11:52:37 IST 2017
+base.0=/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_836e8e3d68c346d7b0ec0ca394ec5fd31f9037eb
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fcf9c9fad03499ffc9ca4c72988582b471b61db9/classes.dex
+base.1=/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fcf9c9fad03499ffc9ca4c72988582b471b61db9
+file.0=/home/abhinay/AndroidStudioProjects/Android_Google_CameraApp.git/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_836e8e3d68c346d7b0ec0ca394ec5fd31f9037eb/classes.dex
